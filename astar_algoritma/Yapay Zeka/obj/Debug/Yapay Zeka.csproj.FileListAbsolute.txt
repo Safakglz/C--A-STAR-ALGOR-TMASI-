@@ -1,0 +1,47 @@
+C:\Users\ASUS\Desktop\Yapay Zeka\Yapay Zeka\obj\Debug\Yapay Zeka.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\Yapay Zeka\obj\Debug\Yapay_Zeka.Form1.resources
+C:\Users\ASUS\Desktop\Yapay Zeka\Yapay Zeka\obj\Debug\Yapay_Zeka.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yapay Zeka\Yapay Zeka\obj\Debug\Yapay Zeka.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\Yapay Zeka\bin\Debug\Yapay Zeka.exe.config
+C:\Users\ASUS\Desktop\Yapay Zeka\Yapay Zeka\bin\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\Yapay Zeka\Yapay Zeka\bin\Debug\Yapay Zeka.pdb
+C:\Users\ASUS\Desktop\Yapay Zeka\Yapay Zeka\obj\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\Yapay Zeka\Yapay Zeka\obj\Debug\Yapay Zeka.pdb
+C:\Users\ASUS\Desktop\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay Zeka.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay_Zeka.Form1.resources
+C:\Users\ASUS\Desktop\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay_Zeka.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay Zeka.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay Zeka.pdb
+C:\Users\ASUS\Desktop\Yapay Zeka Ödev-1\Yapay Zeka\bin\Debug\Yapay Zeka.exe.config
+C:\Users\ASUS\Desktop\Yapay Zeka Ödev-1\Yapay Zeka\bin\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\Yapay Zeka Ödev-1\Yapay Zeka\bin\Debug\Yapay Zeka.pdb
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev 1\Yapay Zeka Ödev-1\Yapay Zeka\bin\Debug\Yapay Zeka.exe.config
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev 1\Yapay Zeka Ödev-1\Yapay Zeka\bin\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev 1\Yapay Zeka Ödev-1\Yapay Zeka\bin\Debug\Yapay Zeka.pdb
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev 1\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay Zeka.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev 1\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay_Zeka.Form1.resources
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev 1\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay_Zeka.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev 1\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay Zeka.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev 1\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev 1\Yapay Zeka Ödev-1\Yapay Zeka\obj\Debug\Yapay Zeka.pdb
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\bin\Debug\Yapay Zeka.exe.config
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\bin\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\bin\Debug\Yapay Zeka.pdb
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\obj\Debug\Yapay_Zeka.Form1.resources
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\obj\Debug\Yapay_Zeka.Properties.Resources.resources
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.pdb
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\bin\Debug\Yapay Zeka.exe.config
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\bin\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\bin\Debug\Yapay Zeka.pdb
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\obj\Debug\Yapay_Zeka.Form1.resources
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\obj\Debug\Yapay_Zeka.Properties.Resources.resources
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.exe
+C:\Users\ASUS\Desktop\YApay Zeka ara sınav\163301056_astar\Yapay Zeka\obj\Debug\Yapay Zeka.pdb
